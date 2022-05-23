@@ -24,8 +24,8 @@ $0_Z TEMPDIFF= #5;	                  	# A drop of 5 degrees would trigger the sw
 To assign exact fan speed for different temperatures
 ```
 $0_5 MAX70= #0; 
-$0_6 MAX65= #0;	  	# 65 degrees < temperature < 70 degrees, use original EC settings
-$0_7 MAX60= #20;		# 60 degrees < temperature < 65 degrees, set speed as 2000 rpm
+$0_6 MAX65= #0;         # 65 degrees < temperature < 70 degrees, use original EC settings
+$0_7 MAX60= #20;        # 60 degrees < temperature < 65 degrees, set speed as 2000 rpm
 $0_8 MAX55= #15; 		
 ```
 
