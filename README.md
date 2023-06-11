@@ -31,4 +31,4 @@ $0_8 MAX55= #15;
 
 Press `Esc` to exit Fan Control.
 
-[AlwaysUp](https://www.coretechnologies.com/products/AlwaysUp/) is recommended to run FanController as a Windows Service.
+[nssm](https://nssm.cc/) is recommended to run FanController as a Windows Service.
